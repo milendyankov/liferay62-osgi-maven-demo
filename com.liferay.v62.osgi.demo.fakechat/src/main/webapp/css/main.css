@@ -1,0 +1,16 @@
+.fakechat-portlet .taglib-user-display {
+	display: inline;
+}
+
+.fakechat-portlet .taglib-user-display img {
+	width: 20px;
+}
+
+.fakechat-portlet .taglib-user-display .user-name {
+	font-size: 1 em;
+	font-weight: normal;
+}
+
+.fakechat-portlet .taglib-user-display .user-details {
+	display: none;
+}
